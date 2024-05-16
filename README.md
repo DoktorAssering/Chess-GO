@@ -1,1 +1,1 @@
-# Chess-GO
+#  WebChess-PHP
